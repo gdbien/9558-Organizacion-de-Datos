@@ -11,11 +11,18 @@ Graficos hechos por ZONAPROP:
 Graficos hechos por Franco:
 	Cantidad de publicaciones por tipo de de propiedad (top 5)
 	Evolucion cantidad de publicaciones
-	Evolucion cantidad de publicaciones por tipo de propiedad (top 5)
+	Evolucion cantidad de publicaciones por tipo de propiedad (top 5) stacked bar plot
 	Porcentaje de publicaciones por provincias (top 10)
 	Cantidad de publicaciones por top 5 provincias (top 5 principales ciudades)
-	Heatmap publicaciones por mes y dia
-	Evolucion precio por metro cuadrado del top 5 de propiedades
+	Dist precios por provincia
+	Dist precios top 5 prov, por top 5 ciud de cada una
+	Dist precios por tipo de propiedad
+	Evolucion precio por m2
+	Evolucion precio por m2 casas
+	Heatmap publicaciones mes, dia
+	Media precios por tipo de propiedad
+	Dist antiguedad
+	Dist precio casas con boxplot
 
 Graficos hechos por Lucas:
 	Box-plot precio de casas con/sin piscina
@@ -24,7 +31,7 @@ Graficos hechos por Lucas:
 	Cantidad de casas con/sin gimnasio
 	Precios de casas en distintas ciudades
 	Cantidad de publicaciones de casas por ciudad
-	
+	COMPLETAR
 
 Graficos hechos por Juan Cruz:
 
